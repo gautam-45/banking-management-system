@@ -11,10 +11,10 @@ A simple console-based Banking Management System built with **Java** using **JDB
 - Transfer money to other existing accounts
 - Check account balance
 
-## 🛠️ Technologies Used
+## 📌 Description
+This project simulates basic banking operations in a command-line interface. It focuses on demonstrating how Java can interact with a relational database using JDBC for real-world use cases like authentication, account handling, and transactions.
+
+## 🌐 Technologies Used
 - Java (Core)
 - JDBC (Java Database Connectivity)
 - MySQL
-
-## 📌 Description
-This project simulates basic banking operations in a command-line interface. It focuses on demonstrating how Java can interact with a relational database using JDBC for real-world use cases like authentication, account handling, and transactions.
